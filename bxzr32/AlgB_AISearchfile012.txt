@@ -1,0 +1,5 @@
+USER = bxzr32 (Yuhao Li),
+ALGORITHM CODE = SA, NAME OF CITY-FILE = AISearchfile012.txt,
+SIZE = 12, TOUR LENGTH = 56,
+11,10,0,3,5,8,1,7,2,6,9,4,
+NOTE = 

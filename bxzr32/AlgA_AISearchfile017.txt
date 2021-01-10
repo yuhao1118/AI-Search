@@ -1,0 +1,5 @@
+USER = bxzr32 (Yuhao Li),
+ALGORITHM CODE = GA, NAME OF CITY-FILE = AISearchfile017.txt,
+SIZE = 17, TOUR LENGTH = 1461,
+15,0,7,14,12,6,16,9,8,4,11,1,13,10,3,5,2,
+NOTE = 

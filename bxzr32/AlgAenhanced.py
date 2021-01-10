@@ -154,7 +154,7 @@ def read_in_algorithm_codes_and_tariffs(alg_codes_file):
 ############
 
 
-input_file = "AISearchfile535.txt"
+input_file = "AISearchfile042.txt"
 
 ############
 # PLEASE SCROLL DOWN UNTIL THE NEXT BLOCK OF CAPITALIZED COMMENTS.
@@ -293,7 +293,6 @@ added_note = ""
 
 class GA:
     def __init__(self, dist_matrix, num_cities):
-        self.process_num = 4
         self.dist_matrix = dist_matrix
         self.num_cities = num_cities
         self.num_population = 60
